@@ -7,3 +7,4 @@ Black
 Gray
 Orange
 Unicorn
+Indigo
